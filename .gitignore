@@ -1,0 +1,43 @@
+# Dependências
+node_modules/
+
+# Expo
+.expo/
+.expo-shared/
+web-build/
+dist-android/
+
+# Build nativo
+android/
+ios/
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Variáveis de ambiente
+.env
+.env.*
+!.env.example
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Cache e cobertura
+.cache/
+coverage/
+
+# TypeScript
+*.tsbuildinfo
+
+# Sistema operacional e editor
+.DS_Store
+Thumbs.db
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+.idea/
