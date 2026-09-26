@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "GamePlay",
+    "slug": "gameplay",
+    "version": "1.0.0",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#171E49",
+    "platforms": [
+      "android"
+    ],
+    "android": {
+      "package": "com.gameplay.app",
+      "softwareKeyboardLayoutMode": "resize"
+    },
+    "plugins": [
+      "expo-font"
+    ]
+  }
+}
